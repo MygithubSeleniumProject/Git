@@ -8,5 +8,6 @@ public class BrowserTest {
 	public void m1()
 	{
 		System.out.println("created");
+		// hello
 	}
 }
